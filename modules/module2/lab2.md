@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Lab 2
-parent: modules2
+parent: module 2
 nav_order: 1
 ---
