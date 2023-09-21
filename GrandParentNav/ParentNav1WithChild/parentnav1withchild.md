@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parent Navigation 1
-parent: Grand Paarent Navigation
+parent: Grand Parent Navigation
 nav_order: 1
 ---
 
