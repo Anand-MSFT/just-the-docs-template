@@ -10,3 +10,6 @@ nav_order: 1
 
 Currently, the navigation structure is limited to 3 levels: grandchild pages cannot themselves have child pages.
 {: .label .label-purple }
+
+{: .note }
+A paragraph
